@@ -1,0 +1,4 @@
+Alex Morgan
+Role: Python Developer
+Skills: Python, SQL, Git, Problem Solving, Data Analysis
+Experience: Built data pipelines and automated report generation using Python.
